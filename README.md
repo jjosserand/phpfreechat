@@ -56,3 +56,5 @@ or this code for `carbon` theme:
 ```html
   <link rel="stylesheet" type="text/css" href="/phpfreechat-2.1.1/client/themes/carbon/pfc.min.css" />
 ```
+04-05-2020 jjosserand modified for php 7.3 and latest mysqli
+
